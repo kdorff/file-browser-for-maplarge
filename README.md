@@ -1,3 +1,5 @@
+## File Browser Application to browse files and folders in a directory.
+
 Developed and tested with dotnet-sdk 10, installed via
 
 ```
@@ -24,3 +26,5 @@ dotnet run
 ```
 
 Visit http://localhost:5055/ to use the application.
+
+To configure the directory to browse, edit the `RootPath` in the `appsettings.json` file.
