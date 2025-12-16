@@ -1,0 +1,6 @@
+@FileBrowser.Server_HostAddress = http://localhost:5055
+
+GET {{FileBrowser.Server_HostAddress}}/
+Accept: application/json
+
+###
